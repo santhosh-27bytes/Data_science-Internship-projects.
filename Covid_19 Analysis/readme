@@ -1,0 +1,54 @@
+# COVID-19 Data Analysis
+
+This project focuses on analyzing global COVID-19 data to understand trends in confirmed cases, deaths, and recoveries using Python.  
+The analysis includes data preprocessing, aggregation, and visualization of real-world data.
+
+---
+
+## Project Overview
+The objective of this project is to explore COVID-19 trends across different countries and time periods through data analysis and visualization techniques.
+
+Key highlights:
+- Global trend analysis
+- Country-wise comparison
+- Visual representation of COVID-19 impact
+
+---
+
+## Dataset Information
+The dataset used for this project is sourced from Kaggle:
+
+🔗 **COVID-19 Dataset (Kaggle):**  
+https://www.kaggle.com/datasets/maheshashwin/covid19-dataset
+
+Due to GitHub’s file size limitations (files larger than 25 MB), the dataset is **not included** in this repository.
+
+### How to use the dataset
+1. Visit the Kaggle link above  
+2. Download the dataset (CSV file)  
+3. Place the CSV file in this project folder  
+4. Run the Python script to perform the analysis  
+
+---
+
+## Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+
+---
+
+## Output
+- Line graphs showing global COVID-19 trends  
+- Bar charts comparing country-wise cases and deaths  
+
+---
+
+## Learning Outcomes
+- Handling large real-world datasets  
+- Data cleaning and preprocessing  
+- Data visualization using Python  
+- Extracting insights from data  
+
+---
+
