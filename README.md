@@ -1,54 +1,68 @@
 # Data Science Internship Projects
 
-This repository contains the data science projects completed during my internship at **KODBUD**.  
-Each project focuses on applying Python and data analysis techniques to real-world datasets.
+This repository showcases the data science projects completed during my internship at **KODBUD**. Each project applies Python-based data analysis and machine learning techniques to real-world datasets, with a focus on deriving actionable insights.
 
 ---
 
-## 📌 Projects Included
+## Projects
 
-### 1️⃣ COVID-19 Data Analysis
-- Analyzed global COVID-19 trends including total cases, deaths, and vaccinations.
-- Used real-world data to visualize and understand the global impact of the pandemic.
+### 1. COVID-19 Data Analysis
 
-**Dataset:** Our World in Data (OWID)  
+* Analyzed global COVID-19 trends, including confirmed cases, deaths, and vaccinations.
+* Created visualizations to highlight temporal and regional patterns.
+
+**Dataset:** Our World in Data (OWID)
 **Tools:** Python, Pandas, Matplotlib
 
 ---
 
-### 2️⃣ IPL Data Analysis
-- Analyzed IPL match data to extract meaningful insights.
-- Visualized team performance, match outcomes, and trends.
+### 2. IPL Data Analysis
+
+* Explored Indian Premier League match data to uncover key insights.
+* Visualized team performance, match outcomes, and historical trends.
 
 **Tools:** Python, Pandas, Matplotlib
 
 ---
 
-### 3️⃣ Movie Recommendation System
-- Developed a content-based movie recommendation system.
-- Used genre similarity to recommend movies based on cosine similarity.
+### 3. Movie Recommendation System
+
+* Built a content-based recommendation system using genre similarity.
+* Implemented cosine similarity to recommend relevant movies.
 
 **Tools:** Python, Pandas, Scikit-learn
 
 ---
-### 4️⃣ Salary Prediction
-- Built a machine learning model to predict salaries based on input features.
-- Performed data preprocessing, model training, and evaluation.
+
+### 4. Salary Prediction
+
+* Developed a machine learning model to predict salaries based on input features.
+* Performed data preprocessing, model training, and performance evaluation.
 
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib
 
 ---
 
-## Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
+### 5. Titanic Survival Prediction
+
+* Built a binary classification model to predict passenger survival on the Titanic.
+* Applied data cleaning, feature selection, and Logistic Regression for model training.
+
+**Dataset:** Kaggle Titanic Dataset
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib
+
+---
+
+## Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
 
 ---
 
 ## Objective
-The objective of these projects is to strengthen my skills in data analysis, visualization, and basic machine learning by working with real-world datasets.
 
----
+The objective of this repository is to demonstrate practical experience in data analysis, visualization, and introductory machine learning through hands-on work with real-world datasets.
