@@ -1,0 +1,21 @@
+# Titanic Survival Prediction
+
+A Machine Learning project that applies **Logistic Regression** to predict passenger survival using the Titanic dataset.
+
+## Project Summary
+
+* **Problem Type:** Binary Classification
+* **Algorithm:** Logistic Regression
+* **Dataset:** Kaggle Titanic (`train.csv`)
+* **Tools:** Python, Pandas, Scikit-learn, Matplotlib
+
+## Workflow
+
+Data preprocessing, feature selection, model training, and performance evaluation.
+
+## Execution
+
+```bash
+python titanic_data.py
+```
+
